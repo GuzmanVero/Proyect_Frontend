@@ -6,3 +6,6 @@ header{
 .logo{
     display: flex;
 }
+.menuheader{
+    justify-content:right;
+}
