@@ -1,12 +1,8 @@
 header{
     display: flex;
-    height: 70px;
-    background-color: #45a29e;
-    justify-content: space-between;
+    background-color: #45A29e;
+    height: 130px;
 }
-logo{
+.logo{
     display: flex;
-}
-logo img {
-    height: 50px;
 }
