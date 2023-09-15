@@ -7,9 +7,16 @@ header{
     display: flex;
 }
 .menuheader{
-    justify-content:right;
+    display: flex; 
+    gap: 20px; 
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    margin-left: auto;
 }
 .menu{
     background-color: #1f2833;
     color: white;
+    border-spacing: 15px;
+    margin-left: auto;
 }
