@@ -20,3 +20,13 @@ header{
     border-spacing: 15px;
     margin-left: auto;
 }
+.titulo{
+    font-size: 100px;
+}
+.btingresar{
+    background-color: #45A29e;
+    color: black;
+}
+footer{
+    display: flex;
+}
