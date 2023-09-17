@@ -20,3 +20,42 @@ header{
     border-spacing: 15px;
     margin-left: auto;
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+.columna1{
+    background-color: rgb(175, 205, 205);
+    padding: 25px;
+    margin: 0 20px;
+}
+.columna2{
+    margin: 0 20px;
+}
+.columna3{
+    margin: 0 20px;
+}
+.columna4{
+    margin: 0 20px;
+}
+
+.footer {
+    min-height: 70px;
+    background-color: #fdf1f1;
+    width: 100%;
+    /*position: relative;
+    clear: both;             
+    margin-top: 0px;            ELIMINADO
+    padding-top: 0px;
+    overflow: visible;*/
+    position: relative;
+    bottom: 50;   
+    margin: 20 0px;           /* NUEVO */
+  }
+.imagen1{ 
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    margin-left: auto;   
+}
