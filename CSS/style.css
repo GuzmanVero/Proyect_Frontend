@@ -20,3 +20,29 @@ header{
     border-spacing: 15px;
     margin-left: auto;
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+.columna1{
+    background-color: rgb(175, 205, 205);
+    padding: 25px;
+    margin: 0 20px;
+}
+.columna2{
+    margin: 0 20px;
+}
+.columna3{
+    margin: 0 20px;
+}
+.columna4{
+    margin: 0 20px;
+}
+
+.imagen1{ 
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    margin-left: auto;   
+}
