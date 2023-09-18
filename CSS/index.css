@@ -3,9 +3,6 @@
     font-size: 70px;
     margin: auto;
 }
-
-
-
 .contenedor0{
     background-color: rgb(49, 125, 125);
     display: flex;
@@ -13,9 +10,7 @@
     width: 900px ;
     height: 600px;
     margin: auto;
-
 }
-
 .imagen1{ 
     margin: auto;
     align-items: center;
@@ -26,5 +21,36 @@
 .imagen2{ 
     margin: auto;
     width: 900px ;
-    height: 600px;
+    height: 1060px;
+ }
+.titulo2{
+    margin: auto;
+   text-align: center;
+    
 }
+.contenedor1{
+    display: flex;
+    justify-content: center;
+    height: 450px;
+    margin: 0 235px;    
+
+}
+
+.medicina{
+    margin: 0 45px;
+}
+.prevencion{
+    margin: 0 45px;
+}
+.cuidados{
+    margin: 0 45px;
+}
+
+.footer {
+    min-height: 70px;
+    background-color: #fdf1f1;
+    width: 100%;
+    position: relative;
+    bottom: 50;   
+    margin: 20 0px;          
+  }
