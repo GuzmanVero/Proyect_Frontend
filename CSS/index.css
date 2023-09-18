@@ -1,6 +1,23 @@
+.titulo{
+    color: rgb(31, 106, 106);
+    font-size: 70px;
+    margin: auto;
+}
 
+
+
+.contenedor0{
+    background-color: rgb(49, 125, 125);
+    display: flex;
+    justify-content: center;
+    width: 900px ;
+    height: 600px;
+    margin: auto;
+
+}
 
 .imagen1{ 
+    margin: auto;
     align-items: center;
     padding: 10px;
     height: 100px;
