@@ -19,12 +19,15 @@
 }
 .comodidad{
     margin: 0 45px;
+    text-align: center;
 }
 .tratamientos{
     margin: 0 45px;
+    text-align: center;
 }
 .medicamentos{
     margin: 0 45px;
+    text-align: center;
 }
 .contenedor1{
     display: flex;
@@ -35,12 +38,15 @@
 
 .informacion{
     margin: 0 45px;
+    text-align: center;
 }
 .alimentacion{
     margin: 0 45px;
+    text-align: center;
 }
 .prevencion{
     margin: 0 45px;
+    text-align: center;
 }
 .cuadro{
     background-color: rgb(50, 150, 150);
