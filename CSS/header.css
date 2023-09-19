@@ -20,3 +20,12 @@ header{
     border-spacing: 15px;
     margin-left: auto;
 }
+.enlace:link{
+    color: white;
+}
+.enlace:visited{
+    color: white;
+}
+.enlace:hover{
+    font-size: 1.1em;
+}
