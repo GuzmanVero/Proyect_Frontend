@@ -26,3 +26,9 @@
     bottom: 50;   
     margin: 20 0px;          
   }
+.enlacefooter:link{
+    color: black;
+}
+.enlacefooter:visited{
+    color: black;
+}
