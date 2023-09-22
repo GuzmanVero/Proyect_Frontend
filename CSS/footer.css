@@ -30,5 +30,8 @@
     color: black;
 }
 .enlacefooter:visited{
+    color: black;
+}
+.enlacefooter:hover{
     color: blue;
 }
