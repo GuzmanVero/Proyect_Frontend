@@ -16,3 +16,9 @@
     margin: auto 50px;
     text-align: center;
 }
+.btinicio:link{
+    color: black;
+}
+.btinicio:visited{
+    color: black;
+}
