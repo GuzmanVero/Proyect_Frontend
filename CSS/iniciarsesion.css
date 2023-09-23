@@ -16,3 +16,9 @@
     margin: auto 50px;
     text-align: center;
 }
+.bnregistro:link{
+    color: black;
+}
+.bnregistro:visited{
+    color: black;
+}
