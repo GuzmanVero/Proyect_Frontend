@@ -13,6 +13,18 @@
     height: 600px;
     margin: auto;
 }
+.btingresar{
+    color: black;
+    background-color: aquamarine;
+    width:100px; 
+    height:25px
+}
+.bningresar:link{
+    color: black;
+}
+.bningresar:visited{
+    color: black;
+}
 .imagen1{ 
     margin: auto;
     align-items: center;
